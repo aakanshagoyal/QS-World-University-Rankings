@@ -9,4 +9,4 @@ The rankings were created in response to the increased demand for subject-level 
 
 ![preview](preview.png)
 
-### [Data Source](https://www.kaggle.com/code/padhmam/qs-world-university-rankings-eda-visualization/data)
+### [Data Source](https://www.kaggle.com/datasets/padhmam/qs-world-university-rankings-2017-2022)
